@@ -6,7 +6,7 @@ An end-to-end IoT and software systems solution designed to collect, process, an
 
 ## 🏗️ System Architecture
 
-![System Architecture](./architecture-diagram.png)
+![System Architecture](system%20architecture%20diagram.drawio.png)
 
 ### Architecture Overview
 
